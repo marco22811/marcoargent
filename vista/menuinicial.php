@@ -16,7 +16,7 @@ and open the template in the editor.
 
 <div class="example">
     <ul id="nav">
-        <li ><a href="login.php">Cerrar sesión</a></li>
+        <li ><a href="login.php">Cerrrrrrar sesión</a></li>
         <li><a>Estanterías</a>
             <ul>
                 <li><a href="../vista/altaestanteria.php">Alta</a></li>
